@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TableLayoutDemo</string>
+    <string name="buttonString1">第一个按钮</string>
+    <string name="buttonString2">第二个按钮</string>
+    <string name="buttonString3">第三个按钮</string>
+    <string name="buttonString4">第四个按钮</string>
+</resources>
